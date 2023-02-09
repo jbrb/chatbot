@@ -57,4 +57,4 @@ test/chatbot_web (Bot Implementation)\
 ![test_coverage](https://i.imgur.com/kSO7jjK.png)
 
 ## Bot Flow Demo
-![demo](https://imgur.com/IbP4G6P.gif)
+![demo](https://github.com/jbrb/chatbot/blob/master/demo.gif)
