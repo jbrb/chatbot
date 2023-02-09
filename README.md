@@ -1,5 +1,5 @@
 # Chatbot
-
+App deployed via Gigalixir at https://crypto-fb-chatbot.gigalixirapp.com
 ## About
 This repository contains the source code for a chatbot that fetches information about cryptocurrency coins upon user's request and sends back the data of the requested cryptocurrency coin through Facebook Pages. This chatbot is powered by CoinGecko and Facebook's Messenger API.
 
